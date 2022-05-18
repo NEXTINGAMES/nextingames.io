@@ -44,7 +44,7 @@ button{
 .content2{
     color: #fbfcfd;
     position: absolute;
-    top: 46%;  
+    top: 50%;  
     left: 50%;
     transform: translateY(-50%);
     z-index: 2;
@@ -53,10 +53,14 @@ button{
     color: #fbfcfd;
     position: absolute;
     top: 30%;  
-    left: 35%;
+    left: 30%;
     transform: translateY(-50%);
     z-index: 2;
-}    
+}  
+.content4{
+    top: 30%;  
+    left: 40%;
+}  
 h1{
     font-size: 80px;
     margin: 10px 0 30px;
