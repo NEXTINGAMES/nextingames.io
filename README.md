@@ -1,1 +1,0 @@
-# thenextinnovation.github.io
